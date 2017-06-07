@@ -1,0 +1,12 @@
+a <- available.packages()
+head(rownames(a), 3)
+install.packages(KernSmooth)
+install.packages(KernSmooth)
+install.packages('KernSmooth')
+library(KernSmooth)
+pwd
+getwd()
+getwd()
+install.packages('devtools')
+devtools::install_github('IRkernel/IRkernel')
+IRkernel::installspec()
